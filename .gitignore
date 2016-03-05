@@ -2,3 +2,5 @@
 /node_modules
 bundle.js
 npm-debug.log
+
+/src/resources/YOUTUBE_API_KEY.js
